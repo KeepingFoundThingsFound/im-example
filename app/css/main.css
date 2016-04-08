@@ -1,0 +1,74 @@
+h1 {
+	font-family: 'Roboto slab', serif;
+	text-align: center;
+}
+
+span.association-grouping, span.association-file {
+	cursor: pointer;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.association-row {
+	padding: 7px 0 7px 0;
+}
+
+.association-row p {
+	margin: 0;
+}
+
+.association-row:hover {
+	background: #e0e0e0;
+}
+
+input {
+	padding: 0;
+	margin: 0;
+}
+
+.glyphicon-file {
+	color: #64ABFC;
+}
+
+.selected-association {
+	border: 1px dashed #727272;
+	background: #e0e0e0;
+}
+
+h3.folder-name {
+	text-align: center;
+}
+
+#toolbar {
+	margin-bottom: 20px
+}
+
+.container {
+	box-shadow: 0 0 10px #b3b3b3;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+
+.jumbotron {
+	margin-top: 30px;
+	text-align: center;
+}
+
+#gdriveButton {
+	width: 220px;
+}
+
+.btn {
+	width: 240px;
+}
+
+#help {
+	padding-top: 2em;
+	display: inline-block;
+}
